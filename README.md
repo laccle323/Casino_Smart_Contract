@@ -4,7 +4,7 @@ GameFi Smart Contract: A decentralized casino(Jackpot) smart contract built on t
 
 ## Contact
 
-If some have any question, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+If some have any question, contact here: [Telegram](https://t.me/adamjones1004) | [Twitter](https://x.com/0xTan1319)
 
 ## Contract Address 
 
